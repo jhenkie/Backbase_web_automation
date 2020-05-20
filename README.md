@@ -1,4 +1,4 @@
-# BACKBASE WEB AUTOMAATION
+# BACKBASE WEB AUTOMATION
 
 ## Selenium
 SELENIUM is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
